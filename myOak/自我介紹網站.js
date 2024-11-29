@@ -12,13 +12,9 @@ router
   })
   .get("/intro", (context) => {
     const introduction = {
-      name: "Oak Service",
-      purpose: "一個基於 Deno 和 Oak 框架的簡單服務。",
-      features: [
-        "快速和輕量的 HTTP 服務",
-        "使用 TypeScript 開發",
-        "適合學習和快速構建應用程式",
-      ],
+      name: "林右緯",
+      age: 20,
+      gender: "男",
       message: "很高興認識你！",
     };
 
