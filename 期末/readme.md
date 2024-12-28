@@ -1,11 +1,11 @@
 hw1
 https://github.com/Linyowe/_ws/tree/master/myOak
 hw2
-https://github.com/Linyowe/_ws/tree/master/hw2//參考chatgpt
+https://github.com/Linyowe/_ws/tree/master/hw2     (參考chatgpt)
 hw3
-https://github.com/Linyowe/_ws/tree/master/hw3//參考chatgpt
+https://github.com/Linyowe/_ws/tree/master/hw3     (參考chatgpt)
 hw4
-https://github.com/Linyowe/_ws/tree/master/hw4//參考chatgpt
+https://github.com/Linyowe/_ws/tree/master/hw4     (參考chatgpt)
 hw5
 https://github.com/Linyowe/_ws/blob/master/hw5/hw5chatgpt
 期中
